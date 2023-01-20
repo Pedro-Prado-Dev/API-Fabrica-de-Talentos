@@ -1,3 +1,8 @@
-<h1>API de Venda<h1>
+# Fabrica de Talentos
 
-<p>Api desenvolvida na fabrica de talentos<p>
+## API de vendas:
+Api desenvolvida em Django com uso de REST e CORS
+
+## Professor:
+https://github.com/flaviobergamini
+
